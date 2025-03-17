@@ -50,6 +50,6 @@ int main() {
         perulanganDo++;
     } while (i < 7);
     cout << "Jumalah perulangan = " << perulanganDo << endl;
-    cout << "Nilai akhir i = " << i << endl;
-    
+    cout << "Nilai akhir i = " << i << endl;
+
 }
